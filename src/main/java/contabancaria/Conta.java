@@ -35,7 +35,7 @@ public class Conta {
 
         this.titular = titular;
         this.saldo = saldoInicial;
-        this.ativa = true;
+        this.ativa = false;
     }
 
     /**
